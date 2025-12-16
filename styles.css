@@ -38,15 +38,6 @@ h1 {
     margin: 20px 0;
 }
 
-.blck {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-.notimg {
-   justify-content: center;
-}
-
 body{
     background-image: url( "imgs-for-background/back2.jpg");
     background-image: url(imgs-for-background/back3.jpg);
@@ -63,4 +54,5 @@ body{
     background-image: url(imgs-for-background/background.png);
     background-size: cover;
     background-repeat: no-repeat;
+
 
